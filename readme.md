@@ -4,7 +4,7 @@ After you apply changes on the code do this step:
 
 create a new branch
 ```bash
-git checkout {new_branch_name}
+git checkout -b {new_branch_name}
 ```
 
 add all changes
